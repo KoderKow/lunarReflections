@@ -15,7 +15,8 @@ disable404 = true
 
 # Site information
 [params]
-description = "Turn a personal picture into a unqiue and personal pattern."
+description = ""
+metaDescription = "Turn a personal picture into a unqiue and personal pattern."
 ogimage = "images/lu_tote.png"
 
 # Project section
