@@ -15,7 +15,7 @@ disable404 = true
 
 # Site information
 [params]
-description = ""
+description = "Turn a personal picture into a unqiue and personal pattern."
 ogimage = "images/lu_tote.png"
 
 # Project section
@@ -49,4 +49,4 @@ twitter = ""
 facebook = "https://www.facebook.com/pages/category/Art/Lunar-Reflections-Shop-104781101372713/"
 linkedin = ""
 github = ""
-email = "lunarreflections@yahoo.com"
+email = "mailto:lunarreflections@yahoo.com"
