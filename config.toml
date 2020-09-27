@@ -8,6 +8,8 @@ googleAnalytics = "UA-xxxxxxxx-x"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "hugo-theme-doors"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+aboutMe = ""
+
 
 disableRSS = true
 disableSitemap = true
@@ -30,13 +32,23 @@ image = "images/lu_tote.png"
 w = "780"
 h = "518"
 
+[[params.projects.list]]
+#title = "About Me"
+#url = "https://www.etsy.com/shop/LunarReflections"
+#description = "I am always experimenting with different ways to express an image. Once while on vacation I took several shots through the center hole of a cheese cracker which turned out to be some of my favorite pictures. Over the last few years I have been trying to take reflection photos that create beautiful abstract designs. My desire was to make organic images without the use of filters or photoshopping effects."
+#d2 = "The method I use allows me to create images that are uniquely different every time. I have used many subjects to create my art but some of my favorites have been found through my travels. Things such as Light Houses, Lakes, Sun Sets, Waterfalls, Trains, Bridges and Flowers. I have even started incorporating pictures of family pets into my designs. These unique designs can be used on everything from wall art to tote bags."
+#d3 = "I have even begun to explore creating a clothing line as well as creating personalized art for individuals by using the high quality images they send to me. I continue to push my creativity and explore new and exciting new ways to share my art with the world."
+#image = "images/about_me.jpg"
+#w = "780"
+#h = "800"
+
 # Subproject section
-# [params.subprojects]
-#
-# [[params.subprojects.list]]
-# title = "The work 2"
+[params.subprojects]
+
+[[params.subprojects.list]]
+# title = "Service 1"
 # url = ""
-# description = "Lorem ipsum dolor sit amet"
+# description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 # image = "images/work2.jpg"
 # w = "780"
 # h = "522"
